@@ -91,6 +91,7 @@ We welcome contributions from all GDG campus members! Follow these steps to cont
 5. **Push and Open a Pull Request**
    - Push your changes to GitHub and submit a Pull Request (PR).
      ```
+     git push origin feature/AmazingFeature).
 
 - **Documentation Standards:**
   - Please ensure all updates follow valid GitHub Flavored Markdown (GFM) formatting.
